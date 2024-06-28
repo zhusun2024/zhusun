@@ -9,7 +9,7 @@
 <br>
 <br>
 
-![:cwuom](https://moe-counter.lxchapu.com/:cwuom?theme=moebooru)
+![:cwuom](https://moe-counter.lxchapu.com/:zhusun2024?theme=moebooru)
 
 
 </div>
