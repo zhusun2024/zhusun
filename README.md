@@ -3,9 +3,9 @@
 ### ヾ(•ω•`)o 👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwuom)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhusun2024)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwuom&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhusun2024&layout=compact)
 <br>
 <br>
 
@@ -21,4 +21,4 @@
 <br>
 <br>
 
-代码写的挺烂的，看看就行啦..
+一个普通人。
