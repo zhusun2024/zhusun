@@ -2,16 +2,15 @@
   
 ### 亻尔 女子
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhusun2024)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhusun2024&layout=compact)
+宝，你是
 
-<br>
-<br>
+第![:cwuom](https://moe-counter.lxchapu.com/:zhusun2024?theme=moebooru)只
 
-![:cwuom](https://moe-counter.lxchapu.com/:zhusun2024?theme=moebooru)
+深入♂了解我的小坏蛋
+
+爱你mua
 
 </div>
 <br>
